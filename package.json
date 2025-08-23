@@ -1,0 +1,26 @@
+{
+  "name": "livekit-llm-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.7.0",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.18.2",
+    "https-proxy-agent": "^5.0.1",
+    "livekit-server-sdk": "^2.13.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.45.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^2.7.0",
+    "openai": "^5.11.0",
+    "socket.io": "^4.8.1"
+  }
+}
